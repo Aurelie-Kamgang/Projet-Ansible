@@ -2,6 +2,6 @@
 - hosts: all
   become: true
   vars_files:
-    - secret/credentials.yml
+    - "secret/credentials.yml"
   roles:
     - { role: basic-apache-container}
