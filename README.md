@@ -51,7 +51,8 @@ To test our role in the Project-Ansible directory:
   **![](https://lh6.googleusercontent.com/ooMIr8Fbgz9o9PVR8n5c6HCIf2ZHSjzDxhY5HyCtehKRs6hRqsXSfVZX1-5asyrYBSdRkwuzJ0qHOo34EdHSTfCwtMr9QLuhN5YO2pgGTppX-IQm9bE-toAjk0W89USIaroji9PYzyp5NFdQiUut84P1ykNakr6qWdC5JHFE7QEzEsuWhxfG3_jkKyekjg)**
 **![](https://lh4.googleusercontent.com/An1fzGBfuSEX_7VrWrWWxBV2RN9JnVULEWgZaUEQe0eXqEAlO90nDX9TfrjoUt3yXaCPoP92lOTr9ujP8eHy7NCQpGbhZDfzPv6LXu6IEXxyS0KCHWi8gR8CqupzExOnC5UJ1ik3ltuu7uPzlOi25TCG9ZMTAV0aDEmkthQmYhn0TnA8wH5W0qkXIlk42A)**
 
-- Open the browser on port: 80																																																																																																					
+- Open the browser on port: 80
+
 **![](https://lh3.googleusercontent.com/Ic4o7WXsJW2jEBd-EOAMkZKZbkWw75VxIiLGNYfVIpvAdEkjhBUcH0sQrR27p57VGI9BhWlrWo6NWKRtO0vS0IeSY35P-XHeoa0a3HgLUupMOSngVK06Gk5ckgQeUKHjw7YEjxdIQPfcnbv-46_svsogNq3iS86iA7UGaj0bTNCqRNETyVeCMOyP4vicPQ)**
 
   **![](https://lh6.googleusercontent.com/1jFNR5IlhHBXzPhcea_SsmRWi7iQUSY7IUEvHqSi2w4sUEj8C9utCz8U5xU57lrXPH6_ID5BzSjZiSdoH4sAqgjegx5FnNzboL-ydS4wri8b1e3jEqM30LcxXEG8SyIjf7-KztRSNXLCWKhn-LNlTaabp-QALa9Qf7_fYrgxMxmpWiWQTqKaeYPB-mPH9g)**
