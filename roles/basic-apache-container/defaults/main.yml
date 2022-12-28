@@ -4,4 +4,4 @@ system_user: admin
 webapp_port: 80
 apache_port: 80
 file_template: index.html.j2
-ansible_python_interpreter: /usr/bin/python3
+ansible_python_interpreter: /usr/bin/python
